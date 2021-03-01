@@ -1,0 +1,17 @@
+{
+  "SteppeWidth":  20,
+  "SteppeHeight" : 20,
+  "JungleWidth" : 10,
+  "JungleHeight" : 10,
+  "InitialGrass" : 5,
+  "InitialJungleGrass" : 100,
+  "GrassChance" : 5,
+  "JungleChance": 100,
+  "PlantProfit" : 30,
+  "InitialAnimals" : 100,
+  "InitialEnergy": 100,
+  "DailyLoss": 10,
+  "TimeBetweenStages": 0,
+  "delay": 50,
+  "NumberOfMaps": 1
+}
